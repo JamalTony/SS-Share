@@ -17,8 +17,19 @@ SS的速度和本地网络环境和节点提供商有关，而且相信大家都
 "password": "123456",
 "obfs": "tls1.2_ticket_auth",
 "protocol": "auth_sha1_v4",
-######11.23第三个######
-"server":"188.166.186.106", 
-"server_port":24188, 
-"password":"r1E7zKCT", 
-"method":"aes-256-cfb" 
+
+######11.24第一个：洛杉矶######
+"server": "104.238.149.105",
+"server_port": 22422,
+"password": "123456",
+"method": "aes-256-cfb"
+######11.24第二个：香港######
+"server": "47.89.8.10",
+"server_port": 22422,
+"password": "123456",
+"method": "aes-256-cfb"
+######11.24第三个：日本######
+"server": "104.238.149.105",
+"server_port": 22422,
+"password": "123456",
+"method": "aes-256-cfb"
