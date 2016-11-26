@@ -33,3 +33,40 @@ SS的速度和本地网络环境和节点提供商有关，而且相信大家都
 "server_port": 22422,
 "password": "123456",
 "method": "aes-256-cfb"
+
+######11.26第一个：美国######
+"server": "us-bvm.oness.xyz",
+"server_port": 20435,
+"password": "123456",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+######11.26第二个：美国######
+"server": "us-qn.oness.xyz",
+"server_port": 20435,
+"password": "123456",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+######11.26第三个：美国######
+"server": "198.12.82.232",
+"server_port": 20435,
+"password": "123456",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+######11.26第四个：加拿大######
+"server": "158.69.201.241",
+"server_port": 20435,
+"password": "123456",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+######11.26第五个：英国######
+"server": "94.177.254.216",
+"server_port": 20435,
+"password": "123456",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+######本次更新结束后，更新速度放缓######
