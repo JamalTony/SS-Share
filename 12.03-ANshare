@@ -13,3 +13,24 @@ ifuckgfw2016
 31597
 rc4-md5
 ifuckgfw2016
+#####12.3第三个：新加坡#####
+"server": "128.199.209.210",
+"server_port": 42138,
+"password": "u6rspe",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+#####12.3第四个：香港#####
+"server": "27.122.56.71",
+"server_port": 42138,
+"password": "u6rspe",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
+#####12.3第五个：阿姆斯特丹#####
+"server": "188.166.68.71",
+"server_port": 42138,
+"password": "u6rspe",
+"method": "rc4-md5",
+"obfs": "tls1.2_ticket_auth",
+"protocol": "auth_aes128_md5"
