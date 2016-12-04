@@ -35,7 +35,29 @@ ifuckgfw2016
 "obfs": "tls1.2_ticket_auth",
 "protocol": "auth_aes128_md5"
 #####12.3第6-9个#####
-104.199.174.50/104.199.187.19/104.199.228.183/104.199.228.164
-10251
-aes-256-cfb
-grUA05ptIX
+"server": "104.199.174.50或104.199.187.19或104.199.228.183或104.199.228.164",
+"server_port": 10251,
+"password": "grUA05ptIX",
+"method": "aes-256-cfb"
+
+
+#####12.4第一个：加拿大#####
+"server": "ca.lingyue.ml",
+"server_port": 1194,
+"password": "lqYDeS",
+"method": "aes-256-cfb"
+#####12.4第二个：美国#####
+"server": "us.lingyue.ml",
+"server_port": 1194,
+"password": "lqYDeS",
+"method": "aes-256-cfb"
+#####12.4第三个：美国#####
+"server": "us-2.lingyue.ml",
+"server_port": 1194,
+"password": "lqYDeS",
+"method": "aes-256-cfb"
+#####12.4第四个：美国#####
+"server": "us-3.lingyue.ml",
+"server_port": 1194,
+"password": "lqYDeS",
+"method": "aes-256-cfb"
